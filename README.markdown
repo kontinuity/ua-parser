@@ -1,3 +1,5 @@
+This is the case insensitive version of the repo. We made it so cause of our legacy DB which added every ua string in lowercased form
+
 ua-parser [![Build Status](https://secure.travis-ci.org/tobie/ua-parser.png?branch=master)](https://travis-ci.org/tobie/ua-parser)
 =========
 
